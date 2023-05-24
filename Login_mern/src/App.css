@@ -1,0 +1,11 @@
+ul{
+
+ width:250px;
+ background-color: pink;
+}
+
+ul li{
+    height:50px;
+    border-bottom: 2px solid;
+    
+}
