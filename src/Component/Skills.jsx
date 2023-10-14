@@ -15,6 +15,8 @@ const Skills = () => {
                 text={`${percentage}%`}
                 value={percentage}
               />
+
+              
             </div>
             <h3 className="skills__title">{title}</h3>
           </div>
